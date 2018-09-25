@@ -1,0 +1,220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Lauren/Desktop/COMP103-2018T2-Assig4/AnimalGame/AnimalGame.java",
+		"/Users/Lauren/Desktop/html/project3/single.html",
+		"/Users/Lauren/Desktop/html/project3/single-name.html",
+		"/Users/Lauren/Desktop/html/project3/single-lab.html",
+		"/Users/Lauren/Desktop/html/project3/single-chips.html",
+		"/Users/Lauren/mddn201Assign2/news2.html",
+		"/Users/Lauren/mddn201Assign2/news1.html",
+		"/Users/Lauren/OneDrive/University/First Year/Tri 2/DSDN 112/Last Project 112/112 Project 3/trial.css",
+		"/Users/Lauren/Desktop/technews-uiCookies/html/test.html",
+		"/Users/Lauren/OneDrive/University/First Year/Tri 2/DSDN 112/Last Project 112/112 Project 3/finishpage.html",
+		"/Users/Lauren/OneDrive/University/First Year/Tri 2/DSDN 112/Last Project 112/112 Project 3/javascript.js",
+		"/Users/Lauren/mddn201Assign2/index.html",
+		"/Users/Lauren/mddn201Assign2/index.css",
+		"/Users/Lauren/Desktop/wpex-today/index.php",
+		"/Users/Lauren/Desktop/web/index.css",
+		"/Users/Lauren/Desktop/web/news2.html",
+		"/Users/Lauren/Desktop/web/news1.html",
+		"/Users/Lauren/Desktop/web/index.html",
+		"/Users/Lauren/OneDrive/Documents/Websites/2016 Website/Website/index.css",
+		"/Users/Lauren/OneDrive/Documents/Websites/2016 Website/Website/index.html",
+		"/Users/Lauren/Desktop/COMP103-2018T2-Assig2/Genealogy/Genealogy.java",
+		"/Users/Lauren/OneDrive/University/First Year/Tri 2/DSDN 142/Last Project 142/Final/sketch.js",
+		"/Users/Lauren/Downloads/MDDN-201-Example-Template-master-2/index2.html",
+		"/Users/Lauren/Downloads/MDDN-201-Example-Template-master-2/css/style.css",
+		"/Users/Lauren/OneDrive/University/Second Year/Tri 2/Comp103/COMP103-2018T2-Assig1/SlideShow/SlideShow.java",
+		"/Users/Lauren/OneDrive/University/First Year/Tri 2/DSDN 142/Project 1/Pattern Files/circleglyph/sketch.js",
+		"/Users/Lauren/OneDrive/University/First Year/Tri 2/DSDN 142/Project 2/Final_code/sketch.js",
+		"/Users/Lauren/ccod2/ps4/sketch.js",
+		"/Users/Lauren/ccod2/ps4/purview.json",
+		"/Users/Lauren/ccod2/ps4/README.md",
+		"/Users/Lauren/cc2/ps3/README.md",
+		"/Users/Lauren/cc2/ps3/glyph.js",
+		"/Users/Lauren/Desktop/xid-5425342_1.json",
+		"/Users/Lauren/cc2/ps3/sketch.js",
+		"/Users/Lauren/cc2/ps2/sketch.js",
+		"/Users/Lauren/cc2/ps2/README.md",
+		"/Users/Lauren/cc2/ps2/interaction.js",
+		"/Users/Lauren/cc2/ps2/letters.js",
+		"/Users/Lauren/cc2/ps2/draw_letters.js",
+		"/Users/Lauren/cc2/ps2/alphabet.js",
+		"/Users/Lauren/cc2/ps2/sketch.html",
+		"/Users/Lauren/cc2/ps2/interaction.html",
+		"/Users/Lauren/cc2/ps2/index.html",
+		"/Users/Lauren/cc2/ps2/alphabet.html",
+		"/Users/Lauren/cc2/ps2/z_purview_helper.js",
+		"/Users/Lauren/cc2/ps2/thumbnail.png",
+		"/Users/Lauren/cc2/ps2/style2.js",
+		"/Users/Lauren/cc2/ps2/style2.html",
+		"/Users/Lauren/cc2/ps2/style1.js",
+		"/Users/Lauren/cc2/ps2/style1.html",
+		"/Users/Lauren/cc2/ps2/preview.jpg",
+		"/Users/Lauren/Desktop/part3/clock_bars.js",
+		"/Users/Lauren/OneDrive/clock_bars.js",
+		"/Users/Lauren/Downloads/ps1/clock1.js",
+		"/Users/Lauren/Desktop/ps1/clock1.js",
+		"/Users/Lauren/cc2/ps1/clock1.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pichichi.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
